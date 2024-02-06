@@ -1,2 +1,2 @@
 # Fitclub
-I Devloped This Travle Website Using  Html,Css,javascript 
+I Devloped This Fitness Website Using  Html,Css,javascript 
